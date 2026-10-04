@@ -1,0 +1,22 @@
+[
+  {
+    "nimi": "Maija",
+    "email": "maija@example.com"
+  },
+  {
+    "nimi": "Jukka",
+    "email": "jukka@example.com"
+  },
+  {
+    "nimi": "Ilari",
+    "email": "ilari@example.com"
+  },
+  {
+    "nimi": "Markus",
+    "email": "markus@example.com"
+  },
+  {
+    "nimi": "Erkki",
+    "email": "erkki@example.com"
+  }
+]
